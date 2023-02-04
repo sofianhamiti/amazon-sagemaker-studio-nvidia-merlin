@@ -1,0 +1,13 @@
+{
+    "DomainId": "<domain-id>",
+    "DefaultUserSettings": {
+        "KernelGatewayAppSettings": {
+            "CustomImages": [
+                {
+                    "ImageName": "merlin",
+                    "AppImageConfigName": "merlin-config"
+                }
+            ]
+        }
+    }
+}
